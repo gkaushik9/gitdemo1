@@ -1,0 +1,1 @@
+A third file is added to the project
