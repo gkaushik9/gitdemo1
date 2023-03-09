@@ -1,1 +1,1 @@
-A third file is added to the project
+Adding a line to c.txt file
